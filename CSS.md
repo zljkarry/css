@@ -22,9 +22,7 @@ selector {
 }
 ```
 
-![EXW6C6W~G{EA0D_8Y[G97~C](C:\Users\zhaolijia\Desktop\前端知识总结\demo\EXW6C6W~G{EA0D_8Y[G97~C.png)
-
-
+![语法](https://github.com/zljkarry/css/blob/master/images/grammar.png)
 
 ## css高级语法
 
@@ -443,6 +441,8 @@ p{color:green;}
 
 元素实际大小=width/height+padding+border+margin
 
+![标准盒模型](https://github.com/zljkarry/css/blob/master/images/standard.png)
+
 
 
 ### IE盒模型
@@ -450,6 +450,8 @@ p{color:green;}
 > box-sizing: border-box
 
 元素实际大小=width/height+margin
+
+![IE盒模型](https://github.com/zljkarry/css/blob/master/images/ie.png)
 
 
 
@@ -596,7 +598,7 @@ Flexible Box，弹性盒子
 
   - 绝对定位left: 50%; 加 transform: translateX(-50%); 
   
-  - 绝对定位加margin: auto;
+  - 绝对定位加margin: auto
   
     绝对定位left: 0; right: 0; 加 margin-left 和 margin-right 设置为 auto
   
